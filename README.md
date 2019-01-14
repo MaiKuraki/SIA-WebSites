@@ -23,6 +23,9 @@
 
 ---
 
+* **freevpn_share**提供我收集的免费账号的网址，也有一些APP推荐.
+
+---
 * **SS/SSR**是主流的VPN代理工具.
 
 ![](https://upload-images.jianshu.io/upload_images/14414020-e54260d3f712c164.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
