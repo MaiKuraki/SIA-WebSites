@@ -10,7 +10,7 @@
 
  ![](https://upload-images.jianshu.io/upload_images/14414020-fe12f1e3e95adeef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
- >**提示:** github中SS各客户端下载地址:[https://github.com/shadowsocks](https://github.com/shadowsocks)
+>**提示:** github中SS各客户端下载地址:[https://github.com/shadowsocks](https://github.com/shadowsocks)
 >
 >![](https://upload-images.jianshu.io/upload_images/14414020-73c0c75c76defa05.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
