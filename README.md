@@ -8,7 +8,7 @@
 
 * BBR是加速VPS网络的工具.
 
-* FreeVPN()提供插件、安卓、Chromium三种方式，我强烈推荐Chromium，是内置翻墙功能的非正式版谷歌浏览器.
+* FreeVPN提供插件、安卓、Chromium三种方式，我强烈推荐Chromium，是内置翻墙功能的非正式版谷歌浏览器.
 
 * SS/SSR是主流的VPN代理工具.
 
