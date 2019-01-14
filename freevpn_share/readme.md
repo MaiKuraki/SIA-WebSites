@@ -1,6 +1,5 @@
 # freevpn_share
 
-*
 |免费账号|
 |--------|
 ||
@@ -29,6 +28,8 @@
 >
 >2.翻墙下载Telegram，自己可以去找电报群，youtube翻墙频道一般都有.
 
+---
+
 |安卓APP(Google应用商店下载)|
 |--------|
 |1.[VPN Master](https://play.google.com/store/apps/details?id=free.fast.psiphon.unblock.proxy.vpn.master）|
@@ -39,4 +40,5 @@
 |链接：https://pan.baidu.com/s/1ihBOgEYgrXLh0hZRsRPY6w,提取码：s10g |
 |![](https://upload-images.jianshu.io/upload_images/14414020-a030aaa9a1a2a860.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)|
 ||
-||
+
+---
