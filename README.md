@@ -62,7 +62,7 @@
 |[https://proxyscrape.com/en/free-proxy-list](https://proxyscrape.com/en/free-proxy-list)|
 |[https://sockslist.net/](https://sockslist.net/)|
 |[https://www.socks-proxy.net/](https://www.socks-proxy.net/)|
-
+|[https://checkerproxy.net/](https://checkerproxy.net/)`推荐:*****`|
 ---
 
 ### 3. 论坛
