@@ -5,6 +5,7 @@
 ---
 
 ### 说明
+* 在GitHub上搜索`bypass GFW`看星级和日期可以了解到一些有最新的科学上网知识项目
 
 ---
 
@@ -42,5 +43,44 @@
 
 ---
 
+### 免费代理服务器
 
+|网站列表|
+|--------|
+|[http://www.freeproxylists.net/zh/](http://www.freeproxylists.net/zh/)|
+|[http://www.live-socks.net/](http://www.live-socks.net/)`推荐`|
+|[https://proxyscrape.com/en/free-proxy-list](https://proxyscrape.com/en/free-proxy-list)|
+|[https://sockslist.net/](https://sockslist.net/)|
+|[https://www.socks-proxy.net/](https://www.socks-proxy.net/)|
 
+---
+
+### 论坛
+
+|论坛列表|
+|--------|
+|[全球主机交流](https://www.hostloc.com/forum.php)`推荐`|
+
+---
+
+### 技术网站
+
+|网站列表|
+|--------|
+|[At randys](https://www.atrandys.com/)`推荐`|
+|[Free tribe](http://freetribe.me/)|
+|[罗在草木间](https://www.mfzy.cf/archives/190)|
+|[SSR中文网](https://ssr.tools/)`推荐`|
+|[VPS中文站](https://www.vpscn.net/)`推荐`|
+
+---
+
+# 技巧
+
+|网站列表|
+|--------|
+|[电报怎么用？](http://www.kaopuzhan.com/341.html)|
+|[Shadowsocks流量混淆](https://bynss.com/2015/428.html)|
+|[微软常用运行库合集 2019.01.10](https://www.52pojie.cn/thread-852479-1-1.html)|
+
+---
