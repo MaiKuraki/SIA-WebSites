@@ -1,11 +1,12 @@
 # SIA-WebSites
 
-这里是我收集的一些科学上网网站的集合,以各自的网站名命名文件夹.
+* 这里是我收集的一些科学上网网站的集合,以各自的网站名命名文件夹.
+
+* 在GitHub上搜索`bypass GFW`看星级和日期可以了解到一些有最新的科学上网知识项目.
 
 ---
 
-### 说明
-* 在GitHub上搜索`bypass GFW`看星级和日期可以了解到一些有最新的科学上网知识项目
+### 各文件夹说明
 
 ---
 
@@ -37,9 +38,7 @@
 
 ![](https://upload-images.jianshu.io/upload_images/14414020-fa331cb93c606d0d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
----
-
->参阅：[SSR中文网](https://ssr.tools/)
+)
 
 ---
 
