@@ -74,6 +74,7 @@
 |[https://sockslist.net/](https://sockslist.net/)|
 |[https://www.socks-proxy.net/](https://www.socks-proxy.net/)|
 |[https://checkerproxy.net/](https://checkerproxy.net/)`推荐:*****`|
+|[http://free-proxy.cz/zh/proxylist/country/all/socks5/ping/all](http://free-proxy.cz/zh/proxylist/country/all/socks5/ping/all)`推荐`|
 ---
 
 ### 3. 论坛
