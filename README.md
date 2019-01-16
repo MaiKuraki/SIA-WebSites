@@ -39,6 +39,15 @@
 * **freevpn_share**提供我收集的免费账号的网址，也有一些APP推荐.
 
 ---
+
+* **Proxy**提供服务器代理的环境及工具的相关介绍.
+
+---
+
+* **Puffin**是一个自带翻墙功能的海雀浏览器，速度蛮快，个人推荐使用.
+
+---
+
 * **SS/SSR**是主流的VPN代理工具.
 
 ![](https://upload-images.jianshu.io/upload_images/14414020-e54260d3f712c164.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -49,7 +58,9 @@
 
 ![](https://upload-images.jianshu.io/upload_images/14414020-fa331cb93c606d0d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-)
+---
+
+* **Tunsafe**免费提供.
 
 ---
 
