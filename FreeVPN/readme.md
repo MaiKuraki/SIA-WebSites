@@ -30,6 +30,6 @@
 
 >下载地址：
 >* [https://www.freevpn.pw/zh-cn/posts/chromium-70.0.3538.9/](https://www.freevpn.pw/zh-cn/posts/chromium-70.0.3538.9/)
-.* github项目：<https://github.com/jjqqkk>
+>* github项目：<https://github.com/jjqqkk>
 
 ---
