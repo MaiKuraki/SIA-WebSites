@@ -108,6 +108,7 @@
 ---
 
 ### 参阅
-* [让你连接互联网](https://loremwalker.github.io/fq-book/#/README)---loremwalker
+
+* [让你连接互联网](https://loremwalker.github.io/fq-book/#/README)——来源于[loremwalker](https://github.com/loremwalker)的Github
 
 ---
