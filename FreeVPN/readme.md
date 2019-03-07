@@ -28,6 +28,8 @@
 
 ![](https://upload-images.jianshu.io/upload_images/14414020-f15772046ea6534c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
->下载地址：[https://www.freevpn.pw/zh-cn/posts/chromium-70.0.3538.9/](https://www.freevpn.pw/zh-cn/posts/chromium-70.0.3538.9/)
+>下载地址：
+>* [https://www.freevpn.pw/zh-cn/posts/chromium-70.0.3538.9/](https://www.freevpn.pw/zh-cn/posts/chromium-70.0.3538.9/)
+.* github项目：<https://github.com/jjqqkk>
 
 ---
